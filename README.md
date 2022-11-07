@@ -1,1 +1,2 @@
 Hej Lau
+selv hej 
